@@ -4,13 +4,7 @@ The ATT&CK Navigator is designed to provide basic navigation and annotation of [
 The principal feature of the Navigator is the ability for users to define layers - custom views of the ATT&CK knowledge base - e.g. showing just those techniques for a particular platform or highlighting techniques a specific adversary has been known to use. Layers can be created interactively within the Navigator or generated programmatically and then visualized via the Navigator.
 
 ## Usage
-There is an **Install and Run** section below that explains how to get the ATT&CK Navigator up and running. You can also try the Navigator out by pointing your browser [here](https://mitre.github.io/attack-navigator). The default is the [Enterprise ATT&CK](https://attack.mitre.org) domain, but the [Mobile ATT&CK](https://attack.mitre.org/mobile) domain can be utilized [here](https://mitre.github.io/attack-navigator/mobile/). See **Enterprise and Mobile Domains** below for information on how to set up the ATT&CK Navigator on local instances to use the two different domains.
-
-**Important Note:** Layer files uploaded when visiting our Navigator instance hosted on GitHub Pages are **NOT** being stored on the server side, as the Navigator is a client-side only application. However, we still recommend installing and running your own instance of the ATT&CK Navigator if your layer files contain any sensitive content.
-
-Use our [GitHub Issue Tracker](https://github.com/mitre/attack-navigator/issues) to let us know of any bugs or others issues that you encounter. We also encourage pull requests if you've extended the Navigator in a cool way and want to share back to the community!
-
-*See [CONTRIBUTING.md](https://github.com/mitre/attack-navigator/blob/master/CONTRIBUTING.md) for more information on making contributions to the ATT&CK Navigator.*
+Forked the repo in order to test how I would like to integrate this internally.  Mainly need the gh-pages branch and its upstream requirements  
 
 ## Requirements
 * [Node.js](https://nodejs.org)
