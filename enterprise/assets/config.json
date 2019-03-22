@@ -20,7 +20,7 @@
 
     "default_layers": {
         "enabled": true,
-        "urls": ["assets/Q1_HeatMap.json", "https://github.com/imnotgifted/attack-navigator/blob/master/layers/Q1_HeatMap.json"]
+        "urls": ["assets/Q1_HeatMap.json", "https://github.com/imnotgifted/attack-navigator/layers/Q1_HeatMap.json"]
     },
 
     "comment_color": "yellow",
